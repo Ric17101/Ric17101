@@ -33,6 +33,8 @@ I'm Richard, a passionate Software Engineering 🤓📱.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ric17101&theme=dark&show_icons=true" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ric17101&theme=dark&layout=compact" width="410" /></p>
 <p>&nbsp;<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ric17101&theme=dark&layout=compact" width="410" /></p>
+<p>&nbsp;<img align="center" src="https://stackoverflow-card.vercel.app/?userID=3970630&theme=stackoverflow-dark&layout=compact" width="410" /></p>
+
 ------
 
 Last Edited on: 08/01/2023
