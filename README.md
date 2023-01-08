@@ -1,45 +1,22 @@
-### Hi there 👋
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" width="400"/>
-</div>
-
-<iframe src="https://giphy.com/embed/L3bj6t3opdeNddYCyl" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-4-episode-2-rick-and-morty-L3bj6t3opdeNddYCyl">via GIPHY</a></p>
-
-<!--
-**Ric17101/Ric17101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
+<img alt="GIF" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" height="280" />
  <p/>
-<h1 align="center"> Hi! I'm Navodya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<h1 align="center"> Hi! I'm Richard <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-I'm Navodya Pasqual, a passionate Software Engineering student 💻.
+I'm Richard, a passionate Software Engineering 🤓📱.
 
 <!-- TODO: Add last video link -->
 
-- :seedling: I’m currently learning about TypeScript.
+- :seedling: I’m currently learning about DevOps.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
-- 🤔 I’m looking for an internship.
+- 🤔 I’m looking for a Job.
 - :speech_balloon: Ask me about anything.
-- 😄 Pronouns: She/Her.
+- 😄 Pronouns: He/Him.
 
-🤝 &nbsp; Connect with Me
+🤝 &nbsp; Reach Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navodya-pasqual-11ba801b1/)
-<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/richard-raguine-b576b576/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/richardraguine)
 
 <hr>
 
@@ -53,10 +30,9 @@ I'm Navodya Pasqual, a passionate Software Engineering student 💻.
 
 ### ⚙️ &nbsp; Git Analytics
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ric17101&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ric17101&theme=dark&layout=compact" width="410" /></p>
 
 ------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 
-Last Edited on: 21/09/2021
+Last Edited on: 08/01/2023
