@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<iframe src="https://giphy.com/embed/L3bj6t3opdeNddYCyl" width="480" height="266" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/rickandmorty-season-4-episode-2-rick-and-morty-L3bj6t3opdeNddYCyl">via GIPHY</a></p>
+
 <!--
 **Ric17101/Ric17101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
