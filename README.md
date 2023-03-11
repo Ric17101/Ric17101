@@ -9,7 +9,7 @@ I'm Richard, a passionate Software Engineering 🤓📱.
 
 - :seedling: I’m currently learning about DevOps.
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
-- Loves 🎵 and 🎹.
+- Loves 🎵 and 🎸.
 - :speech_balloon: Ask me about anything.
 - 😄 Pronouns: He/Him.
 - 👨‍💻 I develop Mobile Apps. #SelfTaught Developer.
