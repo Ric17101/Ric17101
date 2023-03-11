@@ -38,5 +38,3 @@ I'm Richard, a passionate Software Engineering 🤓📱.
 <p>&nbsp;<img align="center" src="https://stackoverflow-card.vercel.app/?userID=3970630&theme=stackoverflow-dark&layout=compact" width="410" /></p>
 
 ------
-
-Last Edited on: 08/01/2023
