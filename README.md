@@ -14,7 +14,7 @@ I'm Richard, a passionate Software Engineering 🤓📱.
 - 😄 Pronouns: He/Him.
 - 👨‍💻 I develop Mobile Apps. #SelfTaught Developer.
 
-[Webstite](https://ric17101.github.io)
+[Website](https://ric17101.github.io)
 
 
 🤝 &nbsp; How to reach me
